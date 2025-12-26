@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jagadeesh N Kimavath"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Bridging the Gap Between Artificial Intelligence and Human Impact. Sub-headline: PhD Researcher at Penn State University exploring AI-driven innovation for Agricultural Extension, Program Planning, and Evaluation"
+  location         : "State College, Pennsylvania"
+  employer         : "Pennsylvania State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jagadeesh.kimavath@gmail.com" 
 
   # Academic websites
   academia         : # URL
