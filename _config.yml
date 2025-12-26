@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/unnamed.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Bridging the Gap Between Artificial Intelligence and Human Impact. Sub-headline: PhD Researcher at Penn State University exploring AI-driven innovation for Agricultural Extension, Program Planning, and Evaluation"
